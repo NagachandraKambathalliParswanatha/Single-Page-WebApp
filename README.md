@@ -18,5 +18,34 @@ An online single page web application that allows authorized employee to create 
 * UI: HTML5, CSS, Bootstrap, JQuery, Javascript
 * Core: AJAX, MySQL, REST, Perl
 
+## ScreenShots
 
 ![](SinglePageOnlineStore/ScreenShots/Login.png)
+
+
+![](SinglePageOnlineStore/ScreenShots/AddInventory.png)
+
+
+![](SinglePageOnlineStore/ScreenShots/AddInventory2.png)
+
+
+![](SinglePageOnlineStore/ScreenShots/Retail.png)
+
+
+![](SinglePageOnlineStore/ScreenShots/EditInventory.png)
+
+
+![](SinglePageOnlineStore/ScreenShots/EditInv.png)
+
+
+![](SinglePageOnlineStore/ScreenShots/DeleteInventory.png)
+
+
+![](SinglePageOnlineStore/ScreenShots/DeleteInv.png)
+
+
+
+![](SinglePageOnlineStore/ScreenShots/Error.png)
+
+
+![](SinglePageOnlineStore/ScreenShots/loggout.png)
