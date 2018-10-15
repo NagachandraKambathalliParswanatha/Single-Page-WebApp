@@ -19,4 +19,4 @@ An online single page web application that allows authorized employee to create 
 * Core: AJAX, MySQL, REST, Perl
 
 
-![](ScreenShots/Login.png)
+![](SinglePageOnlineStore/ScreenShots/Login.png)
